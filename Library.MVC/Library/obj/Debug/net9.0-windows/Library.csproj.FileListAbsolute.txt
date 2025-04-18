@@ -1,0 +1,16 @@
+D:\it-kariera\Programs_7\Library.MVC\Library\bin\Debug\net9.0-windows\Library.exe
+D:\it-kariera\Programs_7\Library.MVC\Library\bin\Debug\net9.0-windows\Library.deps.json
+D:\it-kariera\Programs_7\Library.MVC\Library\bin\Debug\net9.0-windows\Library.runtimeconfig.json
+D:\it-kariera\Programs_7\Library.MVC\Library\bin\Debug\net9.0-windows\Library.dll
+D:\it-kariera\Programs_7\Library.MVC\Library\bin\Debug\net9.0-windows\Library.pdb
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.Form1.resources
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.csproj.GenerateResource.cache
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.AssemblyInfoInputs.cache
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.AssemblyInfo.cs
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.csproj.CoreCompileInputs.cache
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.dll
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\refint\Library.dll
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.pdb
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\Library.genruntimeconfig.cache
+D:\it-kariera\Programs_7\Library.MVC\Library\obj\Debug\net9.0-windows\ref\Library.dll
